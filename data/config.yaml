@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Limao Chang
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,18 +9,15 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/LimaoC/neural-network/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Hello, and welcome to my neural network! This is where I store my second brain - filled with notes from my mathematics and computer science degrees.
 page_title:
-  "🪴 Quartz 3.3"
+  "Neural Network"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: GitHub
+    link: https://LimaoC/neural-network
