@@ -16,7 +16,7 @@ That is, the probability that at least one of the events occurs is less than or 
 > $$\mathbb{P}\left(\bigcup_{i=1}^k A_i\right) \leq \sum_{i=1}^k \mathbb{P}(A_i).$$
 > Then, using $\mathbb{P}(A \cup B) = \mathbb{P}(A) + \mathbb{P}(B) - \mathbb{P}(A \cap B)$, 
 > $$\mathbb{P}\left(\bigcup_{i=1}^{k+1} A_i \right) = \mathbb{P}\left(\bigcup_{i=1}^k A_i \right) + \mathbb{P}(A_{k+1}) - \mathbb{P}\left(\left(\bigcup_{i=1}^n A_i \right) \bigcap A_{k+1} \right),$$
-> and since $\mathbb{P}(E) \geq 0$ for any event $E$ (from the [probability axioms](statistics/probability-measure.md)),
+> and since $\mathbb{P}(E) \geq 0$ for any event $E$ (from the [first axiom of probability](statistics/probability-measure.md)),
 > $$\begin{align*}
 \mathbb{P}\left(\bigcup_{i=1}^{k+1} A_i \right) &\leq \mathbb{P}\left(\bigcup_{i=1}^k A_i \right) + \mathbb{P}(A_{k+1}) \\
 &\leq \sum_{i=1}^k \mathbb{P}(A_i) + \mathbb{P}(A_{k+1}) \\
