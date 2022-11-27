@@ -1,0 +1,14 @@
+---
+title: "Random Variable"
+publishdate: "2022-11-26"
+tags:
+- "statistics"
+---
+
+> [!abstract] Definition.
+> 
+> A random variable $X$ is a function or mapping from the possible outcomes in a [sample space](statistics/sample-space.md) to numerical values, usually the real numbers.
+
+> [!abstract] Definition.
+> 
+> A random variable is said to be *discrete* if it takes values in (i.e. maps to) a countable set.
