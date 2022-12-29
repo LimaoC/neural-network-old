@@ -9,7 +9,14 @@ tags:
 Let $X$ be a [discrete random variable](statistics/random-variable.md) with [probability mass function](statistics/probability-mass-function.md) $f_X(x)$ where $x \in S$. Then the expected value of $X$, denoted by $\mathbb{E}(X)$ and commonly shortened to $\mathbb{E}X$, is given by
 $$\mathbb{E}(X) = \sum_{x \in S} xf_X(x) = \sum_{x \in S} x\mathbb{P}(X = x).$$
 
-Intuitively, the expectation of a random variable $X$ is a weighted average of the values that $X$ takes ($x \in S$), where the weight is given by the probability of each value.
+Let $X$ be a continuous random variable with [probability density function](statistics/probability-density-function.md) $f_X(x)$. Then the expected value of $X$ is given by
+$$\mathbb{E}(X) = \int_{-\infty}^\infty uf(u)du.$$
+
+The expected value of $X$ is also commonly denoted by $\mu_X$.
+
+> [!tip] Tip.
+> 
+> Intuitively, the expectation of a random variable $X$ is a weighted average of the values that $X$ takes ($x$ in the range of $X$), where the weight is given by the probability of each value in the discrete case, and the density function $f_X$ in the continuous case.
 
 ## Properties
 Let $X$ and $Y$ be two arbitrary random variables. Then
