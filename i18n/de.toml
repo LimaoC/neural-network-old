@@ -8,7 +8,7 @@ other = "↳ Zurück zur Startseite."
 other = "Alle {{.Title}}"
 
 [last_updated]
-other = "Zuletzt aktualisiert"
+other = "Veröffentlicht"
 
 [notes_count]
 other = "Beiträge mit diesem Tag"
