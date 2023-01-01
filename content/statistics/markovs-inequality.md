@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Definition
-If $X$ be a nonnegative [random variable](statistics/random-variable.md) (i.e. $X \geq 0$) and $a > 0$. Then
+Let $X$ be a non-negative [random variable](statistics/random-variable.md) (i.e. $X \geq 0$) and $a > 0$. Then
 $$\mathbb{P}(X \geq a) \leq \frac{\mathbb{E}(X)}{a}.$$
 
 ## Proof
