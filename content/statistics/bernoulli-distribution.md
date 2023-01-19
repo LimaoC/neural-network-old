@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Definition
-The *Bernoulli distribution* is a discrete probability distribution with parameter $p$ (success probability) that takes the value 1 with probability $p$ and the value 0 with probability $1 - p$.
+The *Bernoulli distribution* is the discrete probability distribution with parameter $p$ (success probability) that takes the value 1 with probability $p$ and the value 0 with probability $1 - p$.
 
 The Bernoulli distribution is a special case of the [binomial distribution](statistics/binomial-distribution.md) with $n = 1$.
 
@@ -16,7 +16,7 @@ Let $X$ be a *Bernoulli [random variable](statistics/random-variable.md)* with s
 $$f_X(x) = \mathbb{P}(X = x) = \begin{cases}
 p, && \text{if } x = 1 \\
 1 - p, && \text{if } x = 0 \\
-0, && \text{otherwise}
+0, && \text{otherwise}.
 \end{cases}$$
 and [cdf](statistics/cumulative-distribution-function.md)
 $$F_X(x) = \mathbb{P}(X \leq x) = \begin{cases}

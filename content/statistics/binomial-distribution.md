@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Definition
-The *binomial distribution* is a discrete probability distribution, with parameters $n$ (number of trials) and $p$ (success probability), of the number of successes in $n$ independent experiments, each taking on the value 1 with probability $p$ and the value 0 with probability $1 - p$.
+The *binomial distribution* with parameters $n$ (number of trials) and $p$ (success probability) is the discrete probability distribution of the number of successes in $n$ independent experiments, each taking on the value 1 with probability $p$ and the value 0 with probability $1 - p$.
 
 The [Bernoulli distribution](statistics/bernoulli-distribution.md) is a special case of the binomial distribution with $n = 1$.
 
@@ -14,7 +14,7 @@ The [Bernoulli distribution](statistics/bernoulli-distribution.md) is a special 
 ### Probability Mass Function
 Let $X$ be a binomial [random variable](statistics/random-variable.md) with $n$ trials and success probability $p$; that is, $X \sim \text{Bin}(n, p)$. Then $X$ has [pmf](statistics/probability-mass-function.md)
 $$f_X(x) = \mathbb{P}(X = x) = \binom{n}{x} p^x (1 - p)^{n-x}$$
-where $x$ (number of successes) is a non-negative integer, and
+for a non-negative integer $x$ (number of successes), and $0$ otherwise. The quantity
 $$\binom{n}{x} = \frac{n!}{x!(n-x)!}$$
 is the *binomial coefficient* *\[link needed\]*. Note that omitting the binomial coefficient gives us the pmf of a Bernoulli random variable; the binomial coefficient gives us the number of ways in which we can arrange $x$ successes and $n - x$ failures.
 $X$ has [cdf](statistics/cumulative-distribution-function.md)
