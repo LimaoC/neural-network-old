@@ -14,8 +14,10 @@ enableGitHubEdit: true
 GitHubLink: https://github.com/LimaoC/neural-network/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description: Hello, and welcome to my neural network! This is where I store my second brain - filled with notes from my mathematics and computer science degrees.
+description: My second brain filled with notes from my mathematics and computer science degrees.
 page_title: "Neural Network"
 links:
+  - link_name: Limao Chang
+    link: https://limaochang.dev
   - link_name: GitHub
     link: https://github.com/LimaoC/neural-network
