@@ -31,4 +31,8 @@ $$\mathbb{E}X = 0 \cdot (1 - p) + 1 \cdot p = p.$$
 
 ### Variance
 The [variance](statistics/variance.md) of $X$ is given by
-$$\text{Var}(X) = \mathbb{E}(X^2) - (\mathbb{E}X)^2 = (0^2 \cdot (1 - p) + 1^2 \cdot p) - p^2 = p - p^2 = p(1 - p).$$
+$$\begin{align*}
+\text{Var}(X) &= \mathbb{E}(X^2) - (\mathbb{E}X)^2 \\
+&= (0^2 \cdot (1 - p) + 1^2 \cdot p) - p^2 \\
+&= p - p^2 = p(1 - p).
+\end{align*}$$
