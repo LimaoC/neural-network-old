@@ -29,7 +29,11 @@ The [variance](statistics/variance.md) of $X$ is given by
 $$\text{Var}(X) = \frac{1 - p}{p^2}.$$
 
 ### Memoryless Property
-The geometric distribution is memoryless; that is, if no success has been observed yet, the number of failures that has occurred does not affect the number of additional trials required to obtain the next success. Mathematically, this is described as
+The geometric distribution has the memoryless property. That is, the probability distribution of observing the next (or the first) success, given we have already observed some number of failures, is independent of the number of failures observed.
+
+For example, if we have already observed 20 failures, the probability of requiring 5 more failures is equal to the probability of requiring 5 failures (without having observed the initial 20 failures). In other words, there is no "memory" of the additional failures.
+
+Mathematically, this is described as
 $$\mathbb{P}(X > m + n | X > n) = \mathbb{P}(X > m).$$
 This can be seen by evaluating the conditional probability on the left:
 $$\begin{align*}
@@ -43,4 +47,4 @@ $$\begin{align*}
 
 > [!info] Aside.
 > 
-> The geometric distribution is the only discrete probability distribution with the memoryless property; the only continuous probability distribution with the memoryless property is the exponential distribution *\[link needed\]*.
+> The only *discrete* probability distribution with the memoryless property is the geometric distribution. The only *continuous* probability distribution with the memoryless property is the [exponential distribution](statistics/exponential-distribution.md).

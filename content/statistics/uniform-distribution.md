@@ -11,8 +11,8 @@ $$\mathbb{P}(x \leq X \leq y) = \frac{y - x}{b - a}, a \leq x \leq y \leq b,$$
 that is the probability of taking on a value in a particular interval is directly proportional to the interval's length.
 
 ## Properties
-### Probability Mass Function
-Let $X$ be a uniform [random variable](statistics/random-variable.md) on $[a, b]$. Then $X$ has [pmf](statistics/probability-mass-function.md)
+### Probability Density Function
+Let $X$ be a uniform [random variable](statistics/random-variable.md) on $[a, b]$. Then $X$ has [pdf](statistics/probability-density-function.md)
 $$f_X(x) = \begin{cases}
 \frac{1}{b-a}, & \text{if } a \leq x \leq b \\
 0, & \text{otherwise.}

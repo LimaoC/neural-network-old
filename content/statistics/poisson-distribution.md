@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Definition
-The *Poisson distribution* with parameter $\lambda > 0$ (mean rate) is the discrete probability distribution of the number of events occurring in a fixed time interval where the mean rate of occurrences is constant and events occur independently of the time of the previous event.
+The *Poisson distribution* with parameter $\lambda > 0$ (mean rate) is the discrete probability distribution of the number of events occurring in a fixed time interval where events occur independently of each other at a constant mean rate of occurrences.
 
 ## Properties
 ### Probability Mass Function
