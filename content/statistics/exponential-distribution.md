@@ -8,7 +8,7 @@ tags:
 ## Definition
 The *exponential distribution* is the continuous probability distribution of the time between events that follow a [Poisson process](statistics/poisson-distribution.md); that is, events occur independently of each other at a constant mean rate of occurrences.
 
-It is a specific case of the Gamma distribution *\[link needed\]*.
+The exponential distribution is a special case of the [gamma distribution](statistics/gamma-distribution.md).
 
 ## Properties
 ### Probability Density Function
