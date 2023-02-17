@@ -12,7 +12,7 @@ It is a specific case of the Gamma distribution *\[link needed\]*.
 
 ## Properties
 ### Probability Density Function
-Let $X$ be an exponential [random variable](statistics/random-variable.md) with parameter $\lambda > 0$. Then $X$ has [pdf](statistics/probability-density-function.md)
+Let $X$ be an exponential [random variable](statistics/random-variable.md) with parameter $\lambda > 0$; that is, $X \sim \text{Exp}(\lambda)$. Then $X$ has [pdf](statistics/probability-density-function.md)
 $$f_X(x) = \begin{cases}
 0, & \text{if } x < 0 \\
 \lambda e^{-\lambda x}, & \text{if } x \geq 0
