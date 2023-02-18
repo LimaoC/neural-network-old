@@ -23,5 +23,5 @@ The inverse-transform method can also be used to simulate a discrete random vari
 1. Generate $U \sim \mathcal{U}[0, 1]$.
 2. Find the smallest positive integer $k$ such that $U \leq F(X_k)$ and return $X = x_k$.
 
-## Also See
+## See Also
 - [Acceptance Rejection Method](statistics/acceptance-rejection-method.md)

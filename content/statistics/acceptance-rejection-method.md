@@ -25,5 +25,5 @@ The *efficiency* of an acceptance-rejection method is defined as
 $$\mathbb{P}((X, Y) \text{ is accepted}) = \frac{\text{Area under } f}{\text{Area under } Cg} = \frac{1}{C}.$$
 We would like to maximize the efficiency $1/C$ (i.e. $C$ should be close to $1$), which means choosing a proposal $g$ that is close to $f$. This is to minimize the number of rejections we have, which results in fewer iterations of the algorithm.
 
-## Also See
+## See Also
 - [Inverse Transform Method](statistics/inverse-transform-method.md)
