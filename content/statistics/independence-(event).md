@@ -1,5 +1,5 @@
 ---
-title: "Independence"
+title: "Independence (Event)"
 publishdate: "2022-11-21"
 tags:
 - "statistics"
@@ -25,3 +25,6 @@ $$\begin{align*}
 &= (1 - \mathbb{P}(A))(1 - \mathbb{P}(B)) \\
 &= \mathbb{P}(A^c)\mathbb{P}(B^c).
 \end{align*}$$
+
+## See Also
+- [Independence (Random Variable)](statistics/independence-(random-variable).md)
