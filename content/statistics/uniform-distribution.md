@@ -26,14 +26,14 @@ $$F_X(x) = \mathbb{P}(X \leq x) = \begin{cases}
 
 ## Expectation
 The [expectation](statistics/expectation.md) of $X$ is given by
-$$\mathbb{E}X = \frac{1}{b-a} \int_a^b x dx = \frac{b^2 - a^2}{2(b - a)} = \frac{a + b}{2},$$
+$$\mathbb{E}X = \frac{1}{b-a} \int_a^b x \thinspace dx = \frac{b^2 - a^2}{2(b - a)} = \frac{a + b}{2},$$
 which intuitively makes sense as it is the mean of the bounds $a$ and $b$.
 
 ## Variance
 The [variance](statistics/variance.md) of $X$ is given by
 $$\begin{align*}
 \text{Var}(X) &= \mathbb{E}(X^2) - (\mathbb{E}X)^2 \\
-&= \frac{1}{b - a}\int_a^b x^2dx - \left(\frac{a + b}{2}\right)^2 \\
+&= \frac{1}{b - a}\int_a^b x^2 \thinspace dx - \left(\frac{a + b}{2}\right)^2 \\
 &= \frac{a^2 + ab + b^2}{3} - \frac{a^2 + 2ab + b^2}{4} \\
 &= \frac{(b - a)^2}{12},
 \end{align*}$$

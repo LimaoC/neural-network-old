@@ -13,7 +13,7 @@ provided the expectation exists on some open interval $I$ containing 0, where we
 If $X$ is a discrete random variable with range $S$,
 $$M_X(t) = \sum_{x \in S} e^{tx}f_X(x), \quad t \in I$$
 and if $X$ is a continuous random variable,
-$$M_X(t) = \int_{-\infty}^\infty e^{tx} f_X(x) dx, \quad t \in I.$$
+$$M_X(t) = \int_{-\infty}^\infty e^{tx} f_X(x) \thinspace dx, \quad t \in I.$$
 
 > [!warning] Note.
 > 

@@ -25,7 +25,7 @@ $$F_X(x) = \mathbb{P}(X \leq x) = \begin{cases}
 
 ## Expectation
 The [expectation](statistics/expectation.md) of $X$ is given by
-$$\mathbb{E}X = \lambda \int_0^\infty xe^{-\lambda x}dx = \int_0^\infty e^{-\lambda x} = \frac{1}{\lambda},$$
+$$\mathbb{E}X = \lambda \int_0^\infty xe^{-\lambda x}\thinspace dx = \int_0^\infty e^{-\lambda x} = \frac{1}{\lambda},$$
 where we can use integration by parts to solve the integral.
 
 ### Variance
