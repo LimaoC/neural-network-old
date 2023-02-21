@@ -9,7 +9,7 @@ The site can be found [here](https://neuralnetwork.limaochang.dev/).
 HTTPS:
 
 ```
-https://github.com/LimaoC/neural-network.git
+git clone https://github.com/LimaoC/neural-network.git
 cd neural-network
 make  # run local web server
 ```
