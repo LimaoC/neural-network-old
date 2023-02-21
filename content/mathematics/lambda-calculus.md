@@ -2,7 +2,6 @@
 title: "Lambda Calculus"
 publishdate: "2023-02-21"
 tags:
-- "mathematics"
 - "formal logic"
 ---
 

@@ -2,7 +2,7 @@
 title: "Uniform Distribution"
 publishdate: "2023-01-19"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

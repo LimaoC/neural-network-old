@@ -2,7 +2,7 @@
 title: "De Morgan's Laws"
 publishdate: "2022-11-20"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

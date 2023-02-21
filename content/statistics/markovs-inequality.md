@@ -2,7 +2,7 @@
 title: "Markov's Inequality"
 publishdate: "2022-12-29"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

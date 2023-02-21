@@ -2,7 +2,7 @@
 title: "Moment Generating Function"
 publishdate: "2022-12-29"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

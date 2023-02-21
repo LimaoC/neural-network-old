@@ -2,7 +2,7 @@
 title: "Probability Density Function"
 publishdate: "2022-12-28"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

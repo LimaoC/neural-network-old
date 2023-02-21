@@ -2,7 +2,7 @@
 title: "Bernoulli Distribution"
 publishdate: "2022-12-31"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

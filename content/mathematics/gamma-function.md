@@ -2,7 +2,6 @@
 title: "Gamma Function"
 publishdate: "2023-02-17"
 tags:
-- "mathematics"
 ---
 
 ## Definition

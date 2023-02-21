@@ -2,7 +2,7 @@
 title: "Joint Cumulative Distribution Function"
 publishdate: "2023-02-18"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

@@ -2,7 +2,7 @@
 title: "Independence (Random Variable)"
 publishdate: "2023-02-18"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

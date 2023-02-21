@@ -2,7 +2,7 @@
 title: "Acceptance Rejection Method"
 publishdate: "2023-02-18"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

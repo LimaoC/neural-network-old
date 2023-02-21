@@ -2,7 +2,7 @@
 title: "Joint Probability Mass Function"
 publishdate: "2023-02-19"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

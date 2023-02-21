@@ -2,7 +2,7 @@
 title: "Independence (Event)"
 publishdate: "2022-11-21"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

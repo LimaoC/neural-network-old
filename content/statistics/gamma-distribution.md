@@ -2,7 +2,7 @@
 title: "Gamma Distribution"
 publishdate: "2023-02-17"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

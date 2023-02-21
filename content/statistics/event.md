@@ -2,7 +2,7 @@
 title: "Event"
 publishdate: "2022-11-20"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

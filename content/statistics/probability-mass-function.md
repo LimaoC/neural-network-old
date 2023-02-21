@@ -2,7 +2,7 @@
 title: "Probability Mass Function"
 publishdate: "2022-11-27"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

@@ -2,7 +2,7 @@
 title: "Disjoint Event"
 publishdate: "2022-11-23"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

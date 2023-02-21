@@ -2,7 +2,7 @@
 title: "Moment"
 publishdate: "2022-12-27"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

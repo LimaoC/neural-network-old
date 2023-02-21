@@ -2,7 +2,7 @@
 title: "Exponential Distribution"
 publishdate: "2023-02-14"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

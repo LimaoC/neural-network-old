@@ -2,7 +2,7 @@
 title: "Inverse Transform Method"
 publishdate: "2023-02-18"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

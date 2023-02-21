@@ -2,7 +2,7 @@
 title: "Conditional Probability"
 publishdate: "2022-11-21"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

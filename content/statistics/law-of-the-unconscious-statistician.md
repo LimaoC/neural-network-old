@@ -2,7 +2,7 @@
 title: "Law of the Unconscious Statistician"
 publishdate: "2022-12-10"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

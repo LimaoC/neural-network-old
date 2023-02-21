@@ -2,7 +2,7 @@
 title: "Random Variable"
 publishdate: "2022-11-26"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

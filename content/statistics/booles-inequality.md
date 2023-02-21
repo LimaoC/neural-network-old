@@ -2,7 +2,7 @@
 title: "Boole's Inequality"
 publishdate: "2022-11-20"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition

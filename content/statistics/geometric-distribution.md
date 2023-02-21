@@ -2,7 +2,7 @@
 title: "Geometric Distribution"
 publishdate: "2023-01-15"
 tags:
-- "statistics"
+- "probability"
 ---
 
 ## Definition
