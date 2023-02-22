@@ -22,6 +22,18 @@ $$\mathbb{E}X = \lambda.$$
 The [variance](statistics/variance.md) of $X$ is given by
 $$\text{Var}(X) = \lambda.$$
 
+### Probability Generating Function
+The [probability generating function](statistics/probability-generating-function.md) of $X$ is given by
+$$\begin{align*}
+G_X(z) &= \mathbb{E}(z^X) \\
+&= \sum_{k=0}^\infty \mathbb{P}(X = k) \\
+&= \sum_{k=0}^\infty \left(z^k \frac{e^{-\lambda}\lambda^k}{k!}\right) \\
+&= e^{-\lambda} \sum_{k=0}^\infty \frac{(z\lambda)^k}{k!} \\
+&= e^{-\lambda} \cdot e^{\lambda z} && e^x \text{ Taylor Series expansion} \\
+&= e^{\lambda(z - 1)},
+\end{align*}$$
+using the Taylor series expansion for $e^x$ *\[link needed\]*.
+
 ### Connection to binomial distribution
 The Poisson $\text{Poi}(np)$ distribution is the limiting distribution of a [binomial](statistics/binomial-distribution.md) $\text{Bin}(n, p)$ distribution. To see this, suppose $X \sim \text{Bin}(n, p)$ and let $\lambda = np > 0$. Now let the number of trials $n$ tend to infinity, whilst holding the product $np$ constant. The expectation of $X$ is given by
 $$\mathbb{E}X = np = \lambda,$$

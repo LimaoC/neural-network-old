@@ -28,6 +28,17 @@ $$\mathbb{E}X = \frac{1}{p}.$$
 The [variance](statistics/variance.md) of $X$ is given by
 $$\text{Var}(X) = \frac{1 - p}{p^2}.$$
 
+### Probability Generating Function
+The [probability generating function](statistics/probability-generating-function.md) of $X$ is given by
+$$\begin{align*}
+G_X(z) &= \mathbb{E}(z^X) \\
+&= \sum_{x=1}^\infty z^x p (1 - p)^{x-1} \\
+&= zp \sum_{x=0}^\infty z^x (1 - p)^x \\
+&= \frac{zp}{1 - z(1 - p)},
+\end{align*}$$
+using the fact that
+$$\sum_{k=0}^\infty r^k = \frac{1}{1 - r}, \quad |r| < 1.$$
+
 ### Memoryless Property
 The geometric distribution has the memoryless property. That is, the probability distribution of observing the next (or the first) success, given we have already observed some number of failures, is independent of the number of failures observed.
 
