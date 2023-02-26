@@ -14,7 +14,7 @@ Equivalently, $X$ and $Y$ are independent if and only if the product of their ma
 
 ## Properties
 ### Correlation and covariance
-For any pair of random variables $X$ and $Y$, $\mathbb{E}XY = \mathbb{E}X\mathbb{E}Y$, i.e. the [expectation](statistics/expectation.md) of the product of $X$ and $Y$ is equivalent to the product of the expectations of $X$ and $Y$. This also implies that the [covariance](statistics/covariance.md) of $X$ and $Y$ is 0, and thus $X$ and $Y$ are [uncorrelated](statistics/correlation.md). In short, independent variables are uncorrelated.
+For any pair of random variables $X$ and $Y$, $\mathbb{E}XY = \mathbb{E}X\mathbb{E}Y$, i.e. the [expectation](statistics/expectation.md) of the product of $X$ and $Y$ is equivalent to the product of the expectations of $X$ and $Y$. This also implies that the [covariance](statistics/covariance.md) of $X$ and $Y$ is 0, and thus $X$ and $Y$ are [uncorrelated](statistics/correlation.md). In short, independent variables are uncorrelated. \
 **Proof.** Suppose $X$ and $Y$ are jointly continuous. Since $X$ and $Y$ are independent, $f_{X, Y} = f_Xf_Y$, so
 $$\begin{align*}
 \mathbb{E}XY &= \int_{-\infty}^\infty \int_{-\infty}^\infty xy f_{X, Y}(x, y) \thinspace dxdy \\

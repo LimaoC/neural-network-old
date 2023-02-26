@@ -25,3 +25,6 @@ $$\begin{align*}
 \end{align*}$$
 
 A corollary of the Cauchy-Schwarz inequality *\[link needed\]* is that $|\varrho(X, Y)| \leq 1$. $\varrho(X, Y) = 1$ in the case where $X$ and $Y$ are almost surely linearly dependent and have an increasing linear relation, and $\varrho(X, Y) = -1$ in the case where $X$ and $Y$ are almost surely linearly independent and have a decreasing linear relation.
+
+## See Also
+- [Independence (Random Variable)](statistics/independence-(random-variable).md)
