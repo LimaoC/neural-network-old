@@ -7,6 +7,8 @@ Hello, and welcome to my neural network! This is where I store my second brain -
 
 Below is the structure of the network. Each top-level (generally) represents a broad discipline/field and has tags to further subdivide the notes. The links below will take you to all the notes belonging to that particular discipline or tag.
 
+/[computer-science](/computer-science) \
+├─ [reasoning about programs](/tags/reasoning-about-programs) \
 /[mathematics](/mathematics) \
 ├─ [formal logic](/tags/formal-logic) \
 /[statistics](/statistics) \
