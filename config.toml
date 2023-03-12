@@ -3,6 +3,7 @@ languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
+pluralizeListTitles = false
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
